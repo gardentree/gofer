@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Gofer::VERSION
   s.authors     = ["(ю:】"]
   s.email       = ["gardentreex@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Gofer."
-  s.description = "TODO: Description of Gofer."
+  s.homepage    = ""
+  s.summary     = "This gem provides Google OAuth for rails with omniauth."
+  s.description = "This is an implement of omniauth-google-oauth2."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
